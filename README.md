@@ -50,3 +50,8 @@ El uso de la IA permitió:
 1. Navega a la carpeta `translations/`.
 2. Duplica el archivo `en.json` y renómbralo con el código de tu idioma (ej. `pt.json` para portugués, `fr.json` para francés).
 3. Traduce los valores y envía un *Pull Request*.
+<img width="571" height="643" alt="image" src="https://github.com/user-attachments/assets/a396bb6a-9ced-4f53-bb2a-e95c3f338bd4" />
+<img width="571" height="650" alt="image" src="https://github.com/user-attachments/assets/9c7e2b00-df42-41f2-aa26-af8371f47a0d" />
+<img width="558" height="638" alt="image" src="https://github.com/user-attachments/assets/96b8da2e-c3bf-47e3-8766-12c94b2a8867" />
+<img width="563" height="641" alt="image" src="https://github.com/user-attachments/assets/d44f7175-122a-49ca-828a-a928502939aa" />
+<img width="560" height="742" alt="image" src="https://github.com/user-attachments/assets/828e8e49-542a-4d74-8327-2d850f656892" />
