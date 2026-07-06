@@ -8,12 +8,19 @@ Un complemento (*add-on*) avanzado para Anki diseñado para estudiantes e invest
 Este *add-on* se integra directamente en el menú de engranaje de cada mazo y ofrece tres herramientas clave:
 
 * **⏳ Pronóstico a Ritmo Actual:** Interroga tu historial de los últimos 7 días y calcula en qué fecha exacta terminarás de ver todas las tarjetas nuevas de un mazo si mantienes tu velocidad actual.
+<img width="571" height="643" alt="image" src="https://github.com/user-attachments/assets/a396bb6a-9ced-4f53-bb2a-e95c3f338bd4" />
+<img width="571" height="650" alt="image" src="https://github.com/user-attachments/assets/9c7e2b00-df42-41f2-aa26-af8371f47a0d" />
+
 * **🎯 Planificador de Metas / Exámenes:** Selecciona una fecha límite en el calendario interactivo. El sistema cruzará tu tiempo de respuesta histórico, tu tasa de retención y la carga de tarjetas para decirte cuántas debes estudiar al día, cuánto tiempo te tomará y cuál es tu porcentaje de probabilidad de éxito.
+<img width="558" height="638" alt="image" src="https://github.com/user-attachments/assets/96b8da2e-c3bf-47e3-8766-12c94b2a8867" />
+<img width="563" height="641" alt="image" src="https://github.com/user-attachments/assets/d44f7175-122a-49ca-828a-a928502939aa" />
 * **📊 Reporte de Analítica Pro:** Un *dashboard* avanzado generado con HTML/CSS puro (compatible con el Modo Oscuro de Anki) que expone la salud del mazo:
     * Barras de progreso visuales (Dominadas vs. Jóvenes vs. Nuevas).
     * Tasa de retención real y velocidad de respuesta (en segundos).
     * Distribución de la carga de trabajo de los botones (Otra vez, Difícil, Bien, Fácil).
     * Detección de tarjetas "sanguijuela" (*leeches*) sobre-estudiadas.
+ <img width="560" height="742" alt="image" src="https://github.com/user-attachments/assets/828e8e49-542a-4d74-8327-2d850f656892" />
+
 * **🌍 Soporte Multilingüe (i18n):** Sistema de carga dinámica mediante archivos `.json`. Autodetecta el idioma de la interfaz de Anki (incluye Inglés y Español por defecto).
 
 ## 🤖 Desarrollo Asistido por Inteligencia Artificial
@@ -50,8 +57,7 @@ El uso de la IA permitió:
 1. Navega a la carpeta `translations/`.
 2. Duplica el archivo `en.json` y renómbralo con el código de tu idioma (ej. `pt.json` para portugués, `fr.json` para francés).
 3. Traduce los valores y envía un *Pull Request*.
-<img width="571" height="643" alt="image" src="https://github.com/user-attachments/assets/a396bb6a-9ced-4f53-bb2a-e95c3f338bd4" />
-<img width="571" height="650" alt="image" src="https://github.com/user-attachments/assets/9c7e2b00-df42-41f2-aa26-af8371f47a0d" />
-<img width="558" height="638" alt="image" src="https://github.com/user-attachments/assets/96b8da2e-c3bf-47e3-8766-12c94b2a8867" />
-<img width="563" height="641" alt="image" src="https://github.com/user-attachments/assets/d44f7175-122a-49ca-828a-a928502939aa" />
-<img width="560" height="742" alt="image" src="https://github.com/user-attachments/assets/828e8e49-542a-4d74-8327-2d850f656892" />
+
+
+
+
