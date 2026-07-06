@@ -45,7 +45,7 @@ El uso de la IA permitió:
 
 **Opción A: Vía AnkiWeb (Recomendado)**
 1. Abre Anki y ve a *Herramientas > Complementos > Descargar complementos*.
-2. Introduce el código: `[CODIGO DE ANKI PENDIENTE]`
+2. Introduce el código: `[2125257297]`
 
 **Opción B: Instalación Manual**
 1. Descarga el archivo `.zip` desde la sección de *Releases* en este repositorio.
